@@ -1,0 +1,11 @@
+<Files "info.php">
+    Require all denied
+</Files>
+
+<Files "config.inc.php">
+    Require all denied
+</Files>
+
+<Files "secrets.php">
+    Require all denied
+</Files>
