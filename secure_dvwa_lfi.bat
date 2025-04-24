@@ -1,7 +1,7 @@
 @echo off
 SETLOCAL ENABLEDELAYEDEXPANSION
 
-:: Chemin vers DVWA
+:: Chemin vers DVWA;
 set "DVWA_PATH=C:\xampp\htdocs\dvwa"
 set "INDEX_FILE=%DVWA_PATH%\index.php"
 set "SECURE_DIR=%DVWA_PATH%\includes\pages"
